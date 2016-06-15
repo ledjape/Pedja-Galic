@@ -1,0 +1,19 @@
+.gradient-bar {
+	position: relative;
+
+	&:after {
+		content: "";
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:0.5em;
+		background:linear-gradient(to right,
+									$lajt 0%, $lajt 20%,
+									$lajt2 20%, $lajt2 40%,
+									$dark 40%, $dark 60%,
+									$mid 60%, $mid 80%,
+									$mid2 80%, $mid2 100%
+									);
+	}
+}

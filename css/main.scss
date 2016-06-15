@@ -24,19 +24,28 @@ $text-color:       #333;
 $background-color: #fdfdfd;
 $brand-color:      #E95420;
 
-$orange-color: 			 		#E95420;
-$orange-color-light: 		#F29879;
+// ubuntu colors: /
+
+$orange-color: 			#E95420;
+$orange-color-light: 	#F29879;
 $aubergine-color-light: #77216F;
 $aubergine-color-dark: 	#772953;
 $aubergine-color-mid: 	#2C001E;
 
+// adobe colors: /
+
+$lajt: 	#A799A8;
+$lajt2: #685F69;
+$dark: 	#1C1A1C;
+$mid: 	#423C42;
+$mid2: 	#897D8A;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1200px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -62,5 +71,7 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "gradient-bar",
+        "components/posts"
 ;

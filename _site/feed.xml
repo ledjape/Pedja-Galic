@@ -6,35 +6,85 @@
 </description>
     <link>http://example.com/</link>
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Jun 2016 14:30:57 +0200</pubDate>
-    <lastBuildDate>Tue, 14 Jun 2016 14:30:57 +0200</lastBuildDate>
+    <pubDate>Wed, 15 Jun 2016 15:53:13 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jun 2016 15:53:13 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>The Metamorphosis</title>
+        <description>&lt;h1 id=&quot;cockroach-anyone&quot;&gt;Cockroach anyone?&lt;/h1&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into a gigantic insect. He was lying on his hard, as it were armor-plated, back and when he lifted his head a little he could see his dome-like brown belly divided into stiff arched segments on top of which the bed quilt could hardly keep in position and was about to slide off completely. His numerous legs, which were pitifully thin compared to the rest of his bulk, waved helplessly before his eyes.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;What has happened to me? he thought. It was no dream. His room, a regular human bedroom, only rather too small, lay quiet between the four familiar walls. Above the table on which a collection of cloth samples was unpacked and spread out-Samsa was a commercial traveler-hung the picture which he had recently cut out of an illustrated magazine and put into a pretty gilt frame. It showed a lady, with a fur cap on and a fur stole, sitting upright and holding out to the spectator a huge fur muff into which the whole of her forearm had vanished! Gregor’s eyes turned next to the window, and the overcast sky-one could hear rain drops beating on the window gutter-made him quite melancholy. What about sleeping a little longer and forgetting all this nonsense, he thought, but it could not be done, for he was accustomed to sleep on his right side and in his present condition he could not turn himself over. However violently he forced himself towards his right side he always rolled on to his back again. He tried it at least a hundred times, shutting his eyes to keep from seeing his struggling legs, and only desisted when he began to feel in his side a faint dull ache he had never experienced before.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;em&gt;Excerpt From: Kafka, Franz “The metamorphosis”&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://example.com/books/the-metamorphosis</link>
+        <guid isPermaLink="true">http://example.com/books/the-metamorphosis</guid>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Women</title>
+        <description>&lt;h1 id=&quot;lydia-o-lydia&quot;&gt;Lydia, o Lydia..&lt;/h1&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;“I’m not sure when I first saw Lydia Vance. It was about 6 years ago and I had just quit a twelve year job as a postal clerk and was trying to be a writer. I was terrified and drank more than ever. I was attempting my first novel. I drank a pint of whiskey and two six packs of beer each night while writing. I smoked cheap cigars and typed and drank and listened to classical music on the radio until dawn. I set a goal of ten pages a night but I never knew until the next day how many pages I had written. I’d get up in the morning, vomit, then walk to the front room and look on the couch to see how many pages were there. I always exceeded my ten. Sometimes there were 17, 18, 23, 25 pages. Of course, the work of each night had to be cleaned up or thrown away. It took me twenty-one nights to write my first novel.
+The owners of the court where I then lived, who lived in the back, thought I was crazy. Each morning when I awakened there would be a large brown[…]”&lt;/p&gt;
 
+&lt;p&gt;Excerpt From: Bukowski, Charles “1978 Women”&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://example.com/books/women</link>
+        <guid isPermaLink="true">http://example.com/books/women</guid>
+        
+        
+        <category>books</category>
+        
+      </item>
+    
+      <item>
+        <title>Naked Lunch</title>
+        <description>&lt;h2 id=&quot;a-fresh-start&quot;&gt;A fresh start&lt;/h2&gt;
+
+&lt;p&gt;“I can feel the heat closing in, feel them out there making their moves, setting up their devil doll stool pigeons, crooning over my spoon and dropper I throw away at Washington Square Station, vault a turnstile and two flights down the iron stairs, catch an uptown A train… Young, good looking, crew cut, Ivy League, advertising exec type fruit holds the door back for me. I am evidently his idea of a character. You know the type comes on with bartenders and cab drivers, talking about right hooks and the Dodgers, call the counterman in Nedick’s by his first name. A real asshole. And right on time this narcotics dick in a white trench coat (imagine tailing somebody in a white trench coat — trying to pass as a fag I guess ) hit the platform. I can hear the way he would say it holding my outfit in his left hand, right hand on his piece: “I think you dropped something, fella”&lt;/p&gt;
+
+&lt;p&gt;But the subway is moving.&lt;/p&gt;
+
+&lt;p&gt;“So long flatfoot!” I yell, giving the fruit his B production. I look into the fruit’s eyes, take in the white teeth, the Florida tan, the two hundred dollar sharkskin suit, the[…]”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Excerpt From: Burroughs, William S. “Naked Lunch”&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Jun 2016 15:50:29 +0200</pubDate>
-        <link>http://example.com/jekyll/update/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://example.com/jekyll/update/welcome-to-jekyll</guid>
+        <link>http://example.com/books/a-fresh-start</link>
+        <guid isPermaLink="true">http://example.com/books/a-fresh-start</guid>
         
         
-        <category>jekyll</category>
+        <category>books</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Stranger</title>
+        <description>&lt;h1 id=&quot;stranger&quot;&gt;Stranger&lt;/h1&gt;
+
+&lt;p&gt;“Mother died today. Or, maybe, yesterday; I can’t be sure. The telegram from the Home says: YOUR MOTHER PASSED AWAY. FUNERAL TOMORROW. DEEP SYMPATHY. Which leaves the matter doubtful; it could have been yesterday.
+The Home for Aged Persons is at Marengo, some fifty miles from Algiers. With the two o’clock bus I should get there well before nightfall. Then I can spend the night there, keeping the usual vigil beside the body, and be back here by tomorrow evening. I have fixed up with my employer for two days’ leave; obviously, under the circumstances, he couldn’t refuse. Still, I had an idea he looked annoyed, and I said, without thinking: “Sorry, sir, but it’s not my fault, you know.”
+Afterwards it struck me I needn’t have said that. I had no reason to excuse myself; it was up to him to express his sympathy and so forth. Probably he will do so the day after tomorrow, when he sees me in black. For the present, it’s almost as if Mother weren’t really dead. The funeral will bring it home to me, put an official seal on it, so to speak…
+I took the two-o’clock bus. It was[…]”&lt;/p&gt;
+
+&lt;p&gt;Excerpt From: Albert Camus. “The Stranger”&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 +0200</pubDate>
+        <link>http://example.com/books/stranger</link>
+        <guid isPermaLink="true">http://example.com/books/stranger</guid>
+        
+        
+        <category>books</category>
         
       </item>
     
