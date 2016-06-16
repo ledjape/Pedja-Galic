@@ -2,7 +2,7 @@
 layout: post
 title:  "The Metamorphosis"
 date:   2016-06-15 	
-categories: books
+categories: blog
 ---
 
 # Cockroach anyone?

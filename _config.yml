@@ -20,14 +20,14 @@ instagram_username: ledjape
 permalink: /:categories/:title
 
 links: 
-  - title: A-side
-    url: /A-side
+  - title: About
+    url: /about
   - title: Work
-    url: /Work
-  - title: B-side
-    url: /B-side
-  - title: Contact
-    url: /Contact
+    url: /work
+  - title: Articles
+    url: /articles
+  - title: Hire me
+    url: /hire-me
 
 # Build settings
 markdown: kramdown

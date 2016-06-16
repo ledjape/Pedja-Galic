@@ -146,7 +146,7 @@ pre {
 /**
  * Clearfix
  */
-.wrapper:after, .site-section:after, .post-list:after {
+.wrapper:after, .site-section:after, .post-list:after, .project-list:after {
   content: "";
   display: table;
   clear: both; }
@@ -429,3 +429,17 @@ a .svg-icon.git :hover {
   text-align: center; }
   .post-tags li {
     display: inline; }
+
+.project-list {
+  padding: 0;
+  list-style: none; }
+
+.project {
+  float: left;
+  width: 33.33%;
+  padding: 0 1em;
+  text-align: center; }
+
+.project-caption {
+  margin-top: 0.5em;
+  font-size: 30px; }
