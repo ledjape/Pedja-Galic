@@ -3,6 +3,8 @@ layout: post
 title:  "Naked Lunch"
 date:   2016-06-13 15:50:29 +0200
 categories: books
+featured: true
+tags: anchor
 ---
 
 ## A fresh start
