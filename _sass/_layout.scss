@@ -1,10 +1,15 @@
 // Header
+.header {
+    background: #423C42;
+    padding: 2em 0;
+}
 
 .site-nav {
     text-align: center;
+    text-transform: uppercase;
 
     ul {
-        margin: 1em 0;
+        margin: 0 auto;
         list-style: none;
     }
     li {
@@ -12,13 +17,20 @@
         margin: 0 0.5em;
         font-size: 1.5em;
     }
-    a:hover {
+    
+    a.brand {
+        color: #FFFFF1;
+        font-weight: 300;
+    }
+
+    a.brand:hover {
     text-decoration: none;
+    color: #F29879;
     }
 }
 
 .site-title a {
-    color: #333;
+    color: #FFFFF1;
 
     &:hover {
         text-decoration: none;
@@ -36,7 +48,7 @@
 .site-footer {
     padding: 2em 0;
     color: #FFFFF1;
-    background:$mid;
+    background: $footer-color;
 }
 .footer-content {
     float: left;

@@ -1,12 +1,20 @@
-<nav class="site-nav">
-  <ul>
-    {% for link in site.links %}
-    <li>
-      <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</nav>
+<div class="header">
+  <div class="container">
+    <div class="row">
+      <nav class="site-nav">
+        <ul>
+          {% for link in site.links %}
+          <li>
+            <a href="{{ site.baseurl }}{{ link.url }}" class="brand">{{ link.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
 <header class="site-header gradient-bar">
 
   <h1 class="site-title mega"><a href="{{ site.baseurl }}">

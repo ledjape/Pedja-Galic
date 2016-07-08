@@ -6,9 +6,10 @@
 
 
 // Our variables
-$base-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Raleway", "Helvetica Neue", Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
+$light-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -22,23 +23,9 @@ $spacing-unit:     30px;
 
 $text-color:       #333;
 $background-color: #fdfdfd;
-$brand-color:      #E95420;
-
-// ubuntu colors: /
-
-$orange-color: 			#E95420;
-$orange-color-light: 	#F29879;
-$aubergine-color-light: #77216F;
-$aubergine-color-dark: 	#772953;
-$aubergine-color-mid: 	#2C001E;
-
-// adobe colors: /
-
-$lajt: 	#A799A8;
-$lajt2: #685F69;
-$dark: 	#1C1A1C;
-$mid: 	#423C42;
-$mid2: 	#897D8A;
+$brand-color: 	   #593F4A;
+$hover-color:      #D19FAD;
+$footer-color:     #423C42;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -72,7 +59,6 @@ $on-laptop:        800px;
         "base",
         "layout",
         "syntax-highlighting",
-        "gradient-bar",
         "components/posts",
         "components/project"
 ;

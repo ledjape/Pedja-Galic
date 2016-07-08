@@ -105,8 +105,8 @@ a {
     transition: 0.3s;
 
     &:hover {
-        color: $aubergine-color-light;
-        text-decoration: underline;
+        color: $hover-color;
+        text-decoration: none;
     }
 }
 
