@@ -176,10 +176,11 @@ pre {
     display: inline-block;
     margin: 0 0.5em;
     font-size: 1.5em; }
-  .site-nav li.current {
-    text-decoration: underline; }
   .site-nav a {
-    color: #FFFFF1;
+    color: #FFFFF1; }
+  .site-nav a.current {
+    text-decoration: underline;
+    color: #F29879;
     font-weight: 300; }
   .site-nav a:hover {
     text-decoration: none;

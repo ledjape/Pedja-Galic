@@ -18,12 +18,13 @@
         font-size: 1.5em;
     }
 
-    li.current {
-        text-decoration: underline;
-    }
-    
     a {
         color: #FFFFF1;
+    }
+
+    a.current {
+        text-decoration: underline;
+        color: #F29879;
         font-weight: 300;
     }
 
