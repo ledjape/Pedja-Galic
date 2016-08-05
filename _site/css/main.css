@@ -198,67 +198,21 @@ pre {
   background-size: 400px 400px; }
 
 .site-footer {
-  padding: 2em 0;
-  color: #FFFFF1;
-  background: #423C42; }
+  padding: 1.5em 0;
+  background: #e8e8e8; }
 
 .footer-content {
   float: left;
   width: 60%;
   font-size: 0.85em; }
-  .footer-content h3 {
+  .footer-content h5 {
     text-align: left; }
 
 .footer-social {
   float: right; }
   .footer-social li {
     display: inline-block;
-    margin: 0 0.5em; }
-
-.svg-icon.tw {
-  width: 3em;
-  height: 3em; }
-
-.svg-icon.tw path, .svg-icon.tw polygon, .svg-icon.tw rect {
-  fill: #F29879; }
-
-.svg-icon.tw circle {
-  stroke: #F29879;
-  stroke-width: 1; }
-
-a .svg-icon.tw :hover {
-  fill: #2C001E;
-  transition: all .1s ease-in-out; }
-
-.svg-icon.inst {
-  width: 3em;
-  height: 3em; }
-
-.svg-icon.inst path, .svg-icon.inst polygon, .svg-icon.inst rect {
-  fill: #F29879; }
-
-.svg-icon.inst circle {
-  stroke: #F29879;
-  stroke-width: 1; }
-
-a .svg-icon.inst :hover {
-  fill: #2C001E;
-  transition: all .1s ease-in-out; }
-
-.svg-icon.git {
-  width: 3em;
-  height: 3em; }
-
-.svg-icon.git path, .svg-icon.git polygon, .svg-icon.git rect {
-  fill: #F29879; }
-
-.svg-icon.git circle {
-  stroke: #F29879;
-  stroke-width: 1; }
-
-a .svg-icon.git :hover {
-  fill: #2C001E;
-  transition: all .1s ease-in-out; }
+    margin: 0 0.4em; }
 
 .site-section {
   padding-top: 70px; }
