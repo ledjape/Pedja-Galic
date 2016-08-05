@@ -1,15 +1,7 @@
 <div class="header">
   <div class="container">
     <div class="row">
-      <nav class="site-nav">
-        <ul>
-          {% for link in site.links %}
-          <li>
-            <a href="{{ site.baseurl }}{{ link.url }}" class="brand">{{ link.title }}</a>
-          </li>
-          {% endfor %}
-        </ul>
-      </nav>
+      {% include nav.html %}
     </div>
   </div>
 </div>
